@@ -1,0 +1,4 @@
+# Игнорирование папки logs
+logs/
+#txt - file
+docs/*.txt
